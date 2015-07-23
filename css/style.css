@@ -1,0 +1,21 @@
+body {
+    background-color: #c1e2b3;
+}
+
+#game-wrapper{
+    text-align: center;
+}
+
+canvas {
+    background: url('../assets/images/gameboard.gif');
+}
+
+#start-button-clicked > a {
+    position: fixed;
+    top: 35%;
+    left: 32%;
+}
+ h3{
+      text-align: center;
+}
+
